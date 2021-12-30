@@ -2,7 +2,7 @@
 - 👀 I’m interested in industrial automation, IIoT, Pythone
 - 🌱 I’m currently learning Pythone
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me alex@4lex.ru
+- 📫 How to reach me me@4lex.ru
 
 <!---
 Bugeac/Bugeac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
